@@ -710,10 +710,16 @@ Our Privacy Policy
 ------------------
 
 Welcome to our privacy policy! It’s great that you’d like to know more about how we keep your information safe. This policy will give you information about how we look after your personal data when you visit our website (regardless of where you visit it from) or use our services or our applications (apps). The policy also tells you about your privacy rights and how the law protects you. So, if you’re looking for more information on how we collect, store, use and share your personal data we collect, this is the place for you! Now to start us off with, a couple of practical but highly important details for you to take note of!
-## Accessibility
-Accessibility
--------
-LEGO Education is committed to ensuring effective communication and digital accessibility to as many users as possible. We are continually improving the user experience for everyone, and apply the relevant accessibility standards to achieve these goals. We welcome your feedback on the accessibility of spike.LEGOEducation.com. Please let us know if you encounter accessibility barriers in accessing any area our website.
+## Accessibility Commitment
+LEGO® Education is committed to providing an inclusive and accessible experience for all users. We strive to implement, maintain, and increase the accessibility of LEGO® Education SPIKE™ App by adhering to available standards and guidelines. We understand that accessibility is an ongoing process that needs continuous attention.
+
+As part of our commitment, LEGO Education engaged with Perkins Access, a division of Perkins School for the Blind, to help us ensure that SPIKE™ native application and web app conforms to the World Wide Web Consortium’s (W3C) [Web Content Accessibility Guidelines (WCAG) Version 2.2 Level AA][1] requirements to the maximum extent possible. These guidelines explain how to make web content more accessible for people with disabilities.
+
+We welcome your feedback on the accessibility of the SPIKE™ App. Please let us know via our [Support Portal][2] if you encounter accessibility barriers in accessing any area of the app.
+
+
+  [1]: https://www.w3.org/TR/WCAG22/
+  [2]: https://legoeducation.atlassian.net/servicedesk/customer/portal/3/create/51
 ## Certificates
 
 ### TECHNIC Large Hub, Y
